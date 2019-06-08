@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Emcali Multicast",
+    "samples": [
+      {
+        "name": "Fox Sports Colombia",
+        "uri": "udp://225.225.111.42:5002"
+      },
+      {
+        "name": "Canal Caracol HD",
+        "uri": "udp://225.225.112.26:6002"
+      },
+      {
+        "name": "TNT",
+        "uri": "udp://225.225.111.3:5004"
+      },
+      {
+        "name": "Discovery Theather",
+        "uri": "udp://225.225.111.157:5008"
+      },
+      {
+        "name": "ESPN 3",
+        "uri": "udp://225.225.111.134:5010"
+      }
+    ]
+  }
+]
